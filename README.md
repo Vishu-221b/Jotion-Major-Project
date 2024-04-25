@@ -70,4 +70,4 @@ npx convex dev
 ```shell
 npm run dev
 ```
-# Jotion-Major-Project
+# Planbook-Major-Project
